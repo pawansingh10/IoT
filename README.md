@@ -89,7 +89,8 @@
 * **IoT**
   - ***ioT stands for Internet of Things which means Accessing & Conrolling devices using Intenet***
  
-* What actually is Iot?
+### **What actually is IoT?**
+***
   - Let's look at your Mobile device which contains **GPS Tracking, Adaptive Brightness, Voice Detection, Face Detection etc** These components are thier own individual features but what about if these all communicate with each other to prive a better environment?
   
   - Example Phone Brightness is adjusted based on my GPS Location
@@ -111,7 +112,8 @@
        
     - AC would start before 10 minutes arrived at home, this can be also done through IoT
 
-* How does IoT Works?
+### **How does IoT Works?**
+***
  - The working of IoT is different for different-2 IoT echo system, However The key concept there working is same.
  
  - **1. The entire working process of IoT is start with devices, Communicate with IoT Platform**
@@ -121,10 +123,11 @@
 
  - **3. Transfer and Share most valuable data with Application to Devices**
 
-* IoT Architecture
+* **IoT Architecture**
  - ![IoTArchitecture](img2.png)
  
-* Features of IoT
+### **Features of IoT**
+***
  - The most important features of IoT on which it works are **Connectivity, Analyzing, Integrating, Sensing, active-engagement & amny more**
  
  - **Connectivity**
@@ -151,7 +154,8 @@
    - It is important to be the end-point management of all the IoT System otherwise It makes the complete failure of the system
  
 
-* Advantages of IoT
+### **Advantages of IoT**
+***
  - IoT facilitates the several advantages in day to day life in the Business sector
  
  - **Effective Resource Utilization**
@@ -164,7 +168,8 @@
  
  - **Improve Security**
  
-* Disadvantages Of IoT
+### **Disadvantages Of IoT**
+***
  - As the IoT facilitates a set of benefits, it also creates a significant set of challenges
  
  - **Security**
@@ -176,3 +181,45 @@
  
  - **Complexity**
    - The designing, developing and maintaining and enabling the large technology to IoT is quite complicated
+
+
+### **Embedded Devices in IoT**
+***
+- The term Embedded System is important in IoT
+- The embedded devices are the objects that build unique computing system.
+- The embedded sysyem may orn may not be connected to interet
+
+- An Embedded device system generally runs as a single application. However these devices can connect through internet and able to communicate through other network devices
+
+* **Embedded System Hardware**
+- The embedded system can be of type **MicroController** and **MicroProcessor**
+
+> ***Micro-Controller : A microcontroller is a chip optimized to control electronic devices.\
+ It is stored in a single integrated circuit which is dedicated to performing a particular task and execute one specific application***
+
+> ***Micro-Processor : A microprocessor is a controlling unit of a micro-computer wrapped inside a small chip.\It performs Arithmetic Logical Unit (ALU) operations and communicates with the other devices connected with it.\ It is a single Integrated Circuit in which several functions are combined.***
+
+* **Micro-Controller vs Micro-Processor**
+  | **Micro-Processor**        | **Micro-Controller**| 
+  |------------------------|-------------------|
+  |icroprocessor consists of only a Central Processing Unit|whereas Micro Controller contains a CPU, Memory, I/O all integrated into one chip.|
+  |Microprocessor is used in Personal Computers |Micro Controller is used in an embedded system.|
+  |Microprocessor uses an external bus to interface to RAM, ROM, and other peripherals|on the other hand, Microcontroller uses an internal controlling bus.|
+  |Microprocessors are based on Von Neumann model|Micro controllers are based on Harvard architecture|
+  |Microprocessor is complicated and expensive, with a large number of instructions to process|Microcontroller is inexpensive and straightforward with fewer instructions to process.|
+
+* **Emndeded System Software
+- The Embedded System that uses the devices for the Operating system is based on language platform, mainly where the real-time operation would be performed.
+  - Manufacturers builds Embedded Software in eletronics
+  
+  - | Objects | Softwares    |
+    |-------|-----|
+    |  Cars |    |
+    | Telephones |  |
+    | Appliances  |  |
+    | Modems  | |
+    | Light |   |
+  
+  - These Embedded system software are simple running onn 8-bit Mircocontroller  
+   
+   > ***Software for Missiles, Aeroplanes, Ships etc are complicated software for process control system**
