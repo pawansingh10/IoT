@@ -202,13 +202,15 @@
 * **Micro-Controller vs Micro-Processor**
   | **Micro-Processor**        | **Micro-Controller**| 
   |------------------------|-------------------|
-  |icroprocessor consists of only a Central Processing Unit|whereas Micro Controller contains a CPU, Memory, I/O all integrated into one chip.|
+  |Microprocessor consists of only a Central Processing Unit|whereas Micro Controller contains a CPU, Memory, I/O all integrated into one chip.|
   |Microprocessor is used in Personal Computers |Micro Controller is used in an embedded system.|
   |Microprocessor uses an external bus to interface to RAM, ROM, and other peripherals|on the other hand, Microcontroller uses an internal controlling bus.|
   |Microprocessors are based on Von Neumann model|Micro controllers are based on Harvard architecture|
   |Microprocessor is complicated and expensive, with a large number of instructions to process|Microcontroller is inexpensive and straightforward with fewer instructions to process.|
 
-* **Emndeded System Software
+* [IoT](img3.png)
+
+* **Emndeded System Software**
 - The Embedded System that uses the devices for the Operating system is based on language platform, mainly where the real-time operation would be performed.
   - Manufacturers builds Embedded Software in eletronics
   
@@ -221,5 +223,126 @@
     | Light |   |
   
   - These Embedded system software are simple running onn 8-bit Mircocontroller  
+
+> ***Software for Missiles, Aeroplanes, Ships etc are complicated software for process control system**
+
+
+### **IoT EcoSystem**
+***
+- IoT EcoSystem is a connection of various kind of devices that **Sense and Analyze the data and Communicate with each other over the networks**
+
+- In IoT EcoSystem, user uses Smart-Devices like SmartPhone, tablet, Sensors, SmartWatches, Car etc to send command or requests to the device information over network
+
+- The Device responses and performs the command and send Information back.
+
+- The IoT is itself a ecosystem of network devices that transfer data.
+  * ***Sensing, Ebedded Processing, Connectivity*** 
+  
+  * ***Smart Devices & Environment, Cloud Computing, Big Data***
+  
+  * ***Technology, Software, Application***
+  
+  * ***Users or Groups of Community***  
    
-   > ***Software for Missiles, Aeroplanes, Ships etc are complicated software for process control system**
+  * [ioTeco](img4.png)
+  
+
+### **IoT Decision FrameWork**
+***
+- The IoT Decision Framework povides a **Structured Approach** to create a Poerful IoT Product
+
+- IoT Decision Framework is all about the Strategic Decision Making
+
+- The Five different layers of technology
+  - ***1. Device Hardware***
+  - ***2. Device Software***
+  - ***3. Communications***
+  - ***2. Cloud Platform***
+  - ***2. Cloud Application***
+- [IoT_Stack](img5.png)
+
+### **Decision Area**
+***
+- IoT Decision framework pays attenstions to six key decisions areas in IoT Product
+ - ***User Experience (UX)***
+ - ***Data***
+ - ***Business***
+ - ***Technology***
+ - ***Security***
+ - ***Standards & Regulations***
+ 
+
+### **IoT Architecture**
+***
+- IoT architecture mainly consists of 4 major components
+  - ***1. Sensors or Actuators***
+  - ***2. Device***
+  - ***3. Gateways***
+  - ***4. Cloud***
+  
+### **IoT BioMetrics Domain**
+***
+- IoT plays a vital role in the BioMetric Security System such as **FingerPrint-System, Voice-Recognition, Eye-Scanner etc**
+
+- BioMetrics system is something we always encounter in our daily life either fingerprint, eyeScanner, Facelock etc depends on organizations.
+
+* How these system workd?
+  - A person presents its finger on fingerprint scanner and it scans the fingerprint and this is the part of enrollment process
+  - Frpm this fingerprint template, the device extract certain keys features which make a different from others
+  - Store it to a DataBase
+  - After that Every time same person place its finger to fingerprint scanner, it compare this keys according to that persons
+  
+
+### **IoT in Security Camera & Door UnLock System**
+***
+- The security camera & Door Unlock system is something that is quite interesting IoT application
+
+- We place a camera on the top foot of door which in turn clicks the photo of a person comes into frame.
+- This photo is sent to Analytical System which compare this to all photo
+- Process to identify whether to user Open door or not
+
+### **IoT Smart Home & Smart City**
+
+### **IoT Smart Agriculture**
+
+### **Smart Irrigation System**
+
+### **Health care**
+***
+- IoT brings numerous applications in HealthCare from  Remote Monitoring to Smart Sensors to Medical Integration.
+
+- It keeps the Patient Safe and Healthy  as well as improve
+
+- Health-Care Devices collects diverse data from a large set of real world cases that increases the accuracy and the size of medical data
+
+- Factor Affecting IoT HealthCare
+  - ***Continuous Research***
+  - ***Smart Devices***
+  - ***Better Care***
+  - ***Medical Information Distribution***
+  
+- IoT challeges in HealthCare
+  - ***Data Security & Privacy***
+  - ***Integration***
+  - ***Data Overload & Accuracy***
+  - ***Cost***
+  
+
+### **IoT transforming Business**
+***
+- IoT is tranforming the business enterprises by creating the oppotunities to get smarter about the product, services and the customer experience
+  - **Improving Customer Experience**
+  - **Greater Efficiency**
+  - **More Data - More Opportunity**
+  - **Creating New Business Models**
+  - **Cost Reduction and Gain Productivity**
+  - **Asset Tracking & Waste Reduction**
+  
+
+### **Smart Object**
+***
+- **SmartPhone**
+- **Tablet**
+- **Smart TV**
+- **Computer**
+- **Smart Watch**
