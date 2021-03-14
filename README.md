@@ -208,7 +208,7 @@
   |Microprocessors are based on Von Neumann model|Micro controllers are based on Harvard architecture|
   |Microprocessor is complicated and expensive, with a large number of instructions to process|Microcontroller is inexpensive and straightforward with fewer instructions to process.|
 
-* [IoT](img3.png)
+* ![IoT](img3.png)
 
 * **Emndeded System Software**
 - The Embedded System that uses the devices for the Operating system is based on language platform, mainly where the real-time operation would be performed.
@@ -244,7 +244,7 @@
   
   * ***Users or Groups of Community***  
    
-  * [ioTeco](img4.png)
+  * ![ioTeco](img4.png)
   
 
 ### **IoT Decision FrameWork**
@@ -259,7 +259,7 @@
   - ***3. Communications***
   - ***2. Cloud Platform***
   - ***2. Cloud Application***
-- [IoT_Stack](img5.png)
+- ![IoT_Stack](img5.png)
 
 ### **Decision Area**
 ***
