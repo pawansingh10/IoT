@@ -346,3 +346,19 @@
 - **Smart TV**
 - **Computer**
 - **Smart Watch**
+
+
+
+### **IoT vs M2M**
+***
+| **Internet of Things** | **Machine to Machine**|
+|------------------------|-----------------------|
+|Devices have objects that are responsible for decision making|Some degree of intelligence is observed in this|
+|The connection is via Network and using various communication types.|The connection is a point to point|
+|Internet protocols are used such as HTTP, FTP, and Telnet.|Traditional protocols and communication technology techniques are used|
+|Data is shared between other applications that are used to improve the end-user experience.|Data is shared with only the communicating parties.|
+|Internet connection is required for communication|Devices are not dependent on the Internet.|
+|A large number of devices yet scope is large.|Limited Scope for devices.|
+|Business 2 Business(B2B) and Business 2 Consumer(B2C)|Business 2 Business (B2B)|
+|Supports Open API integrations|There is no support for Open Api’s|
+Smart wearables, Big Data and Cloud, etc.|Sensors, Data and Information, etc.|
